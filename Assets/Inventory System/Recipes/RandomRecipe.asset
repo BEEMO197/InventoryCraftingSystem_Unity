@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4d7e0648138347428954cb783b0735b, type: 3}
+  m_Name: RandomRecipe
+  m_EditorClassIdentifier: 
+  recipeID: 5
+  description: this is a recipe
+  category: misc
+  isShapelessCrafting: 0
+  craftingRecipe:
+  - {fileID: 11400000, guid: 274b1e673cd30f142bf9cfe18a6d0cf7, type: 2}
+  - {fileID: 0}
+  - {fileID: 11400000, guid: 8a76b711aa580fc49b84ecd2e9d0116a, type: 2}
+  - {fileID: 0}
+  - {fileID: 11400000, guid: 05faf2198ae4a854cb3e24b5b42ceaf6, type: 2}
+  - {fileID: 0}
+  - {fileID: 11400000, guid: fcb67253721ece14093f3cd6da14a302, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  output: {fileID: 11400000, guid: 1942dd3f1a9f71d47bcb2abb1de7bd99, type: 2}
+  outputAmount: 1
